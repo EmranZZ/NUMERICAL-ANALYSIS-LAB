@@ -1,2 +1,2 @@
 # NUMERICAL ANALYSIS LAB
- We will upload all the given tasks of Numerical Analysisi Lab
+  Here we solve all the given tasks of Numerical Analysisi Lab
